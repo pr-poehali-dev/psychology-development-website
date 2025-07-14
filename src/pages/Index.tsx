@@ -38,7 +38,7 @@ const Index = () => {
             <div className="animate-fade-in">
               <h1 className="text-5xl lg:text-6xl font-inter font-bold text-gray-900 mb-6 leading-tight">
                 Путь к<br />
-                <span className="text-primary">уверенности</span><br />
+                <span className="text-primary">крутой уверенности</span><br />
                 в себе
               </h1>
               <p className="text-xl text-gray-600 mb-8 font-open-sans leading-relaxed">
